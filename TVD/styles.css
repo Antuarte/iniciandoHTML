@@ -1,0 +1,50 @@
+/* Define a fonte padrão para o corpo da página */
+body {
+    font-family: Arial, sans-serif; /* Define a fonte como Arial, com fallback para sans-serif */
+    margin: auto; /* Remove as margens padrão do corpo */
+    padding: auto; /* Remove o preenchimento padrão do corpo */
+    background-color: #f0f0f0; /* Define a cor de fundo da página como um cinza claro */
+}
+
+/* Estiliza o contêiner de texto */
+.texto1 {
+    max-width: 50%; /* Define a largura máxima do contêiner como 50% da largura da tela */
+    margin-right: auto; /* Define a margem direita como automática, empurrando o contêiner para a esquerda */
+    padding: 5px; /* Adiciona um preenchimento interno de 5 pixels ao contêiner */
+    background-color: #fff; /* Define a cor de fundo do contêiner como branco */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra ao redor do contêiner para dar um efeito de elevação */
+    border-radius: 8px; /* Arredonda os cantos do contêiner com um raio de 8 pixels */
+}
+.texto2 {
+    max-width: 50%; /* Define a largura máxima do contêiner como 50% da largura da tela */
+    margin-right: auto; /* Define a margem direita como automática, empurrando o contêiner para a esquerda */
+    padding: 5px; /* Adiciona um preenchimento interno de 5 pixels ao contêiner */
+    background-color: #fff; /* Define a cor de fundo do contêiner como branco */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra ao redor do contêiner para dar um efeito de elevação */
+    border-radius: 8px; /* Arredonda os cantos do contêiner com um raio de 8 pixels */
+}
+.texto3 {
+    max-width: 50%; /* Define a largura máxima do contêiner como 50% da largura da tela */
+    margin-right: auto; /* Define a margem direita como automática, empurrando o contêiner para a esquerda */
+    padding: 5px; /* Adiciona um preenchimento interno de 5 pixels ao contêiner */
+    background-color: #fff; /* Define a cor de fundo do contêiner como branco */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra ao redor do contêiner para dar um efeito de elevação */
+    border-radius: 8px; /* Arredonda os cantos do contêiner com um raio de 8 pixels */
+}
+
+/*
+body:
+
+font-family: Arial, sans-serif;: Define a fonte padrão da página como Arial, com uma alternativa sans-serif caso Arial não esteja disponível.
+margin: 0;: Remove as margens padrão do corpo da página.
+padding: 0;: Remove o preenchimento padrão do corpo da página.
+background-color: #f0f0f0;: Define a cor de fundo da página como um cinza claro.
+.texto:
+
+max-width: 50%;: Define a largura máxima do contêiner de texto como 50% da largura da tela.
+margin-right: auto;: Define a margem direita como automática, o que empurra o contêiner para a esquerda.
+padding: 5px;: Adiciona um preenchimento interno de 5 pixels ao contêiner para espaçar o texto das bordas.
+background-color: #fff;: Define a cor de fundo do contêiner como branco.
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);: Adiciona uma sombra ao redor do contêiner para criar um efeito de elevação.
+border-radius: 8px;: Arredonda os cantos do contêiner com um raio de 8 pixels, dando um visual mais suave.
+*/
