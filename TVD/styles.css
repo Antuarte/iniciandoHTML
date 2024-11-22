@@ -8,23 +8,23 @@ body {
 
 /* Estiliza o contêiner de texto */
 .texto1 {
-    max-width: 65%; /* Define a largura máxima do contêiner como 50% da largura da tela */
+    max-width: 62%; /* Define a largura máxima do contêiner como 20% da largura da tela */
     margin-right: auto; /* Define a margem direita como automática, empurrando o contêiner para a esquerda */
-    margin-left: 5%;
-    margin-top: 5%;
-    margin-bottom: 5%;
-    padding: 20px; /* Adiciona um preenchimento interno de 5 pixels ao contêiner */
+    margin-left: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding: 20px; /* Adiciona um preenchimento interno de 2 pixels ao contêiner */
     background-color: gainsboro; /* Define a cor de fundo do contêiner como branco */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra ao redor do contêiner para dar um efeito de elevação */
     border-radius: 8px; /* Arredonda os cantos do contêiner com um raio de 8 pixels */
     color: maroon
 }
 .texto2 {
-    max-width: 65%;
+    max-width: 62%;
     margin-right: auto;
-    margin-left: 5%;
-    margin-top: 5%;
-    margin-bottom: 5%;
+    margin-left: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
     padding: 20px;
     background-color: gainsboro;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -32,11 +32,11 @@ body {
     color: firebrick
 }
 .texto3 {
-    max-width: 65%;
+    max-width: 62%;
     margin-right: auto;
-    margin-left: 5%;
-    margin-top: 5%;
-    margin-bottom: 5%;
+    margin-left: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
     padding: 20px;
     background-color: gainsboro;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -53,9 +53,9 @@ padding: 0;: Remove o preenchimento padrão do corpo da página.
 background-color: gainsboro;: Define a cor de fundo da página como um cinza claro.
 .texto:
 
-max-width: 50%;: Define a largura máxima do contêiner de texto como 50% da largura da tela.
+max-width: 20%;: Define a largura máxima do contêiner de texto como 20% da largura da tela.
 margin-right: auto;: Define a margem direita como automática, o que empurra o contêiner para a esquerda.
-padding: 5px;: Adiciona um preenchimento interno de 5 pixels ao contêiner para espaçar o texto das bordas.
+padding: 2px;: Adiciona um preenchimento interno de 2 pixels ao contêiner para espaçar o texto das bordas.
 background-color: gainsboro;: Define a cor de fundo do contêiner como branco.
 box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);: Adiciona uma sombra ao redor do contêiner para criar um efeito de elevação.
 border-radius: 8px;: Arredonda os cantos do contêiner com um raio de 8 pixels, dando um visual mais suave.
